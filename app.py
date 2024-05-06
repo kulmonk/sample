@@ -183,6 +183,6 @@ def delete(sno):
         db.session.commit()
     return redirect("/dashboard")
 
-
+print("kuldeep")
 app.run(debug=True)
 
