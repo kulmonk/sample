@@ -1,0 +1,30 @@
+{
+
+"params":
+{
+"local_server" : "True",
+"local_uri" :"mysql+pymysql://root:@localhost/codingthunder",
+"prod_uri" :"mysql+pymysql://root:@localhost/codingthunder",
+"twitter_url" :"https://twitter.com/kulrao",
+"fb_url" :"https://twitter.com/kulrao",
+"redit_url" :"https://www.reddit.com/user/kulrao/",
+"blog_name" :"kulrao",
+"tag_line" :"Disciple of experience & received wisdom",
+"gmail-user" :"kulcoding@gmail.com",
+"gmail-password" :"Quant@1234",
+"posted_by" :"admin",
+"about_text":"Welcome to my blog! I'm Kuldeep, an engineer with a fervent love for coding and stock market analysis. With a background in engineering, I've always been captivated by technology's intricacies and its potential for innovation. Coding serves as my creative outlet, enabling me to bring ideas to life and tackle complex challenges with elegant solutions.",
+"no_of_posts": 1,
+"login_image":"login.svg",
+"admin_user":"kulrao",
+"admin_password":"coding",
+"upload_location": "./static/assets/img"
+
+}
+
+
+
+}
+
+
+

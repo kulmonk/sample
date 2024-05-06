@@ -183,6 +183,6 @@ def delete(sno):
         db.session.commit()
     return redirect("/dashboard")
 
-print("hello app is statted")
+
 app.run(debug=True)
 
