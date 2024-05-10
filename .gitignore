@@ -173,3 +173,7 @@ server.rtf
 untitled 2.rtf
 
 php8.3.conf
+
+# Ignore the GITCMD.rtf file
+GITCMD.rtf
+
