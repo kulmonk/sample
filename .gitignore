@@ -176,4 +176,5 @@ php8.3.conf
 
 # Ignore the GITCMD.rtf file
 GITCMD.rtf
-
+*.txt
+*.rtf
